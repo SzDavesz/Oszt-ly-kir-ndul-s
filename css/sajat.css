@@ -2,6 +2,7 @@
     text-align: center;
 }
 .leirascim{
+    padding-bottom: 2%;
     text-align: center;
 }
 .aktiv{
@@ -10,4 +11,16 @@
 }
 .navigacio{
     font-size: large;
+}
+.leiras{
+    border: 1px solid black;
+    text-align: justify;
+    font-size: 1.20rem;
+}
+.cim_leiras{
+    font-size: 1.40rem;
+    font-style: italic;
+}
+.kiscica{
+    text-align: center;
 }
