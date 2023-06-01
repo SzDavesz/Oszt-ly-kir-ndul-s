@@ -27,3 +27,11 @@
 .kep{
     border: 2px solid black;
 }
+.t_szoveg{
+    color: black;
+    font-style: italic;
+}
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
